@@ -1,0 +1,42 @@
+body {
+  background-color: blanchedalmond;
+}
+
+img {
+  width: 140px;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 20%;
+  border: 5px solid #7c7a7a;
+  transition: transform 0.3s ease-in-out;
+}
+
+img:hover {
+  transform: rotate(5deg);
+}
+
+center {
+  font-size: xx-large;
+  padding: 10px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.riwayat {
+  background-color: rgb(220, 193, 19);
+  border: 5px solid #000;
+  border-radius: 60px;
+  margin: 150px;
+  padding: 15px;
+}
+
+table {
+  /* background-color: rgb(180, 163, 34);  */
+  padding: 5px;
+  border-radius: 20px;
+  width: auto;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: normal;
+  font: bold;
+}
